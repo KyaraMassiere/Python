@@ -21,16 +21,16 @@ Aqui listo os principais conceitos que estou praticando e revisando:
 - [x] **Conceitos Básicos** (Variáveis, Tipos de Dados, Print/Input)
 - [x] **Operadores Aritméticos e Relacionais**
 - [x] **Manipulação de Strings**
-- [ ] **Estruturas Condicionais** (If, Elif, Else)
-- [ ] **Estruturas de Repetição** (While / For) 🚧 *Em Foco*
-- [ ] **Listas e Tuplas**
-- [ ] **Funções (Def)** 🚧 *Em Foco*
+- [x] **Estruturas Condicionais** (If, Elif, Else)
+- [x] **Estruturas de Repetição** (While / For) 🚧 
+- [x] **Listas e Tuplas**
+- [x] **Funções (Def)** 🚧 
 
 ## 📂 Como está organizado
 * `/exercicios_basicos`: Algoritmos iniciais de lógica.
 * `/estruturas_controle`: Exercícios focados em tomada de decisão e loops.
 * `/funcoes`: Práticas de modularização de código.
-*(Você pode ajustar esses nomes conforme as pastas que você criou)*
+
 
 ## 🛠️ Como executar
 Certifique-se de ter o Python instalado.
