@@ -1,7 +1,7 @@
 # Python
 # 🐍 Meus Estudos e Práticas de Python
 
-![Status](https://img.shields.io/badge/Status-Em_Revisão-yellow)
+![Status](https://img.shields.io/badge/Status-Finalizado-green)
 ![Language](https://img.shields.io/badge/Linguagem-Python_3-blue)
 ![Foco](https://img.shields.io/badge/Objetivo-Preparação_Técnico_Senac-green)
 
