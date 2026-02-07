@@ -3,7 +3,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-green)
 ![Language](https://img.shields.io/badge/Linguagem-Python_3-blue)
-![Foco](https://img.shields.io/badge/Objetivo-Preparação_Técnico_Senac-green)
+![Foco](https://img.shields.io/badge/Objetivo-Preparação_Técnico_Senac-yellow)
 
 ## 📝 Sobre o Repositório
 Este repositório reúne meus exercícios, anotações e códigos desenvolvidos durante minha jornada de aprendizado em **Lógica de Programação** e **Python**.
